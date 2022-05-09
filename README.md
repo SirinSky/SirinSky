@@ -1,6 +1,6 @@
 ### Welcome to my Page
 
-### 🔭 I’m currently working on Military Service
+###  I’m currently working on Game Developing
 ### 🌱 I’m currently learning Data Structure.
 ### 👯 I’m looking to collaborate on Music or Game Development
 ### 📫 How to reach me: hanvit0510@naver.com
